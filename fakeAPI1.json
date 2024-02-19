@@ -1,0 +1,176 @@
+{
+  "floor": [
+    {
+      "floorNumber": 1,
+      "rooms": [
+        {
+          "name": "room101",
+          "id": 101,
+          "slots": [
+            {
+              "id": 1,
+              "time": "9:00-9:15 ",
+              "booked": true
+            },
+            {
+              "id": 2,
+              "time": "9:15-9:30 ",
+              "booked": false
+            },
+            {
+              "id": 3,
+              "time": "9:30-9:45 ",
+              "booked": false
+            },
+
+            {
+              "id": 4,
+              "time": "9:45-9:30 ",
+              "booked": false
+            }
+          ]
+        },
+        {
+          "name": "room102",
+          "id": 102,
+          "slots": [
+            {
+              "id": 1,
+              "time": "9:00-9:15 ",
+              "booked": false
+            },
+            {
+              "id": 2,
+              "time": "9:15-9:30 ",
+              "booked": false
+            },
+            {
+              "id": 3,
+              "time": "9:30-9:45 ",
+              "booked": false
+            },
+
+            {
+              "id": 4,
+              "time": "9:45-9:30 ",
+              "booked": false
+            }
+          ]
+        },
+        {
+          "name": "room103",
+          "id": 103,
+          "slots": [
+            {
+              "id": 1,
+              "time": "9:00-9:15 ",
+              "booked": false
+            },
+            {
+              "id": 2,
+              "time": "9:15-9:30 ",
+              "booked": false
+            },
+            {
+              "id": 3,
+              "time": "9:30-9:45 ",
+              "booked": false
+            },
+
+            {
+              "id": 4,
+              "time": "9:45-9:30 ",
+              "booked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "floorNumber": 2,
+      "rooms": [
+        {
+          "name": "room201",
+          "id": 201,
+          "slots": [
+            {
+              "id": 1,
+              "time": "9:00-9:15 ",
+              "booked": false
+            },
+            {
+              "id": 2,
+              "time": "9:15-9:30 ",
+              "booked": false
+            },
+            {
+              "id": 3,
+              "time": "9:30-9:45 ",
+              "booked": false
+            },
+
+            {
+              "id": 4,
+              "time": "9:45-9:30 ",
+              "booked": false
+            }
+          ]
+        },
+        {
+          "name": "room202",
+          "id": 202,
+          "slots": [
+            {
+              "id": 1,
+              "time": "9:00-9:15 ",
+              "booked": false
+            },
+            {
+              "id": 2,
+              "time": "9:15-9:30 ",
+              "booked": false
+            },
+            {
+              "id": 3,
+              "time": "9:30-9:45 ",
+              "booked": false
+            },
+
+            {
+              "id": 4,
+              "time": "9:45-9:30 ",
+              "booked": false
+            }
+          ]
+        },
+        {
+          "name": "room203",
+          "id": 203,
+          "slots": [
+            {
+              "id": 1,
+              "time": "9:00-9:15 ",
+              "booked": false
+            },
+            {
+              "id": 2,
+              "time": "9:15-9:30 ",
+              "booked": false
+            },
+            {
+              "id": 3,
+              "time": "9:30-9:45 ",
+              "booked": false
+            },
+
+            {
+              "id": 4,
+              "time": "9:45-9:30 ",
+              "booked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
